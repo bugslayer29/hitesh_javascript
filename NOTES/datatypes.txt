@@ -1,0 +1,14 @@
+ 1. Number => 
+      range of Number is 2 to the power 53
+2. bigint
+3. string => "a"
+    
+4.boolean => true/false
+5.Null => standalone value(REPRESENTATION OF EMPTY VALUE)
+    EX- let Temperature = NULL (which means no value inside Temperature)
+6.undefined =>  
+7. Symbol => to define individual component / for uniqueness
+8. Object =>
+9. typeof =>
+          by using this datatype, you can get the type of variable that it is whether string, boolean or int.
+              
