@@ -9,8 +9,12 @@
         */
 // we can add one string to another string (only add not subtract) like :
 let str1 = "rohit"
-let str2 = "kumar"
+let str2 = "kumar" 
  
 let str3 = str1 + str2
 
 console.log(str1 + " " + str2)
+
+let gamecounter = 200;
+gamecounter++;
+console.log(gamecounter)
