@@ -11,3 +11,5 @@ accountPassword = "4567555"
 accountCity = "patna"
 
 console.table([accountId, accountEmail, accountPassword, accountCity, accountState]);
+
+ console.log(typeof null)
